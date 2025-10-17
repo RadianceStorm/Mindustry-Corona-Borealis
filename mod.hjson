@@ -20,7 +20,7 @@ version: 1.0
 minGameVersion: 146
 
 #this is a java mod
-java: true
+java: false
 
 #the subtitle displayed on the mod
 subtitle: "A planet shrouded in arcane mysteries."
