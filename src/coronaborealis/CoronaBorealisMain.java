@@ -6,10 +6,10 @@ import mindustry.game.EventType.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-public class CoronaBorealisMod extends Mod{
+public class CoronaBorealisMain extends Mod{
 
-    public CoronaBorealisMod(){
-        Log.info("Loaded CoronaBorealisMod constructor.");
+    public CoronaBorealisMain(){
+        Log.info("Loaded CoronaBorealisMain constructor.");
 
         //listen for game load event
         Events.on(ClientLoadEvent.class, e -> {
