@@ -1,6 +1,6 @@
 package corona_borealis.content;
 
-import arc.graphics.color;
+import arc.graphics.Color;
 import arc.struct.Seq;
 import mindustry.content.*;
 import mindustry.type.*;
@@ -14,7 +14,7 @@ public class CoronaBorealisItemsLiquids {
     
     public static void LoadItems() {
         quartz = new Item("quartz", Color.valueOf("e0d7cc")) {{
-            hardness = 1f;
+            hardness = 1;
             
             alwaysUnlocked = true;
         }};

@@ -8,7 +8,7 @@ name: "corona-borealis"
 author: "Radiance"
 
 #the fully qualified main class of the mod
-main: "corona_borealis.CoronaBorealis"
+main: "coronaborealis.CoronaBorealisMain"
 
 #the mod description as seen in the mod dialog
 description: "A planet shrouded in arcane mystery."
