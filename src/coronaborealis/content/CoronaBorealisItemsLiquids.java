@@ -1,4 +1,4 @@
-package corona_borealis.content;
+package coronaborealis.content;
 
 import arc.graphics.Color;
 import arc.struct.Seq;
