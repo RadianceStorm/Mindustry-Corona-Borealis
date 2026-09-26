@@ -6,6 +6,8 @@ import mindustry.game.EventType.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
+import coronaborealis.content.*;
+
 public class CoronaBorealisMain extends Mod{
 
     public CoronaBorealisMain(){
