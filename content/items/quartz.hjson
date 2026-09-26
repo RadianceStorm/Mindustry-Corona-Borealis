@@ -1,6 +1,0 @@
-name: Quartz
-description: "A silicate mineral used for construction. Contains traces of light magic."
-hardness: 1
-cost: 0.5
-alwaysUnlocked: true
-color: e9dbca
