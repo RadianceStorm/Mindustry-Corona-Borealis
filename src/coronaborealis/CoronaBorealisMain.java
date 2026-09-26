@@ -18,6 +18,9 @@ public class CoronaBorealisMain extends Mod{
     public void loadContent(){
         Log.info("[Corona Borealis] Loading content...");
         CoronaBorealisItemsLiquids.LoadItems();
+        Log.info("[Corona Borealis] Loaded items.");
+        CoronaBorealisItemsLiquids.LoadLiquids();
+        Log.info("[Corona Borealis] Loaded liquids.");
     }
 
 }
