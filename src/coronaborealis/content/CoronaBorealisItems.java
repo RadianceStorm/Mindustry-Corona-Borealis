@@ -19,8 +19,8 @@ public class CoronaBorealisItemsLiquids {
             alwaysUnlocked = true;
         }};
 
-        coronaborealisOnlyItems.addAll(quartz);
-        coronaborealisItems.add(conoraborealisOnlyItems);
+        //coronaborealisOnlyItems.addAll(quartz);
+        //coronaborealisItems.add(conoraborealisOnlyItems);
     }
 
 }
